@@ -2,7 +2,7 @@
 ![Capa DtMoney](https://user-images.githubusercontent.com/102435512/175786604-e895be0c-9b67-4832-9ab0-978ba4d2832c.jpeg)
 <br>
 <br>
-<div>Projeto desenvolvido durante o módulo 2 do programa de aceleração para desenvolvedores Ignite da Rocketseat! 💜</div
+<div>Desenvolvido durante o módulo 2 do programa de aceleração para desenvolvedores Ignite da Rocketseat! 💜</div
 <br>
 <div>Aplicação feita em ReactJS para controle financeiro. 🔥</div>
 <br>
